@@ -2,7 +2,8 @@
 **`Programming The Future(GameDev/Linux_Enjoyer)`**
 <H1>Check out:</H1>
 <ul>
-<li><a href="https://burkana.github.io/My-portfolio/">My CV/Portfolio</a>
+<li><a href="https://burkana.github.io/My-portfolio/"> My CV/Portfolio</a>
+ <li><a href="https://burkanaoriginal.itch.io/">Itch.io page</a></li> 
 </ul>
 
 ---
