@@ -1,6 +1,9 @@
 # 🫙 Burkana
 **`Programming The Future(GameDev/Linux_Enjoyer)`**
-
+<H1>Check out:</H1>
+<ul>
+<li><a href="burkana.github.io/My-portfolio">My CV/Portfolio</a>
+</ul>
 
 ---
 
