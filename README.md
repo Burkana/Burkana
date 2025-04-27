@@ -2,7 +2,7 @@
 **`Programming The Future(GameDev/Linux_Enjoyer)`**
 <h2>About me</h2>
 <p>I'm Kamen Zhelev, a passionate programmer and game developer with a strong interest in creating both interactive games and dynamic websites. I enjoy working across a wide range of technologies and always strive to learn and improve.</p>
-<p>I'm proficient in several programming languages including C++/C, C#, Python, PHP, SQL, HTML, JavaScript, and CSS. I’ve also worked extensively with game engines such as Unity, Unreal Engine, and Godot, which I’ve used to develop and publish multiple games.</p>
+<p>I'm proficient in several programming languages including C++/C, C#, Python, Assembly, PHP, SQL, HTML, JavaScript, and CSS. I’ve also worked extensively with game engines such as Unity, Unreal Engine, and Godot, which I’ve used to develop and publish multiple games.</p>
 <p>Whether it's building immersive gameplay experiences or sleek, functional websites, I love bringing ideas to life through code.</p>
 <h2>Check out:</h2>
 <ul>
