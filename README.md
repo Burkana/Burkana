@@ -8,7 +8,7 @@
 <ul>
 <li><a href="https://burkana.github.io/My-portfolio/"> My CV/Portfolio</a>
  <li><a href="https://burkanaoriginal.itch.io/">Itch.io page</a></li> 
-  <li><a href="https://www.linkedin.com/in/kamen-zhelev-0611902bb/">LinkedIn</a></li> 
+  <li><a href="https://www.linkedin.com/in/kamen-zhelev-0611902bb/">Linkedin</a></li> 
 </ul>
 
 ---
