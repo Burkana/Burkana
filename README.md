@@ -1,4 +1,4 @@
-# 🫙 Burkana
+# 🫙 Kamen (Burkana)
 **`Programming The Future(GameDev/Linux_Enjoyer)`**
 <h2>About me</h2>
 <p>I'm Kamen Zhelev, a passionate programmer and game developer with a strong interest in creating both interactive games and dynamic websites. I enjoy working across a wide range of technologies and always strive to learn and improve.</p>
